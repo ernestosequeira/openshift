@@ -2,7 +2,7 @@
 	// Datos de la base de datos
 	$usuario = "esequeira";
 	$password = "9358819d8143cbb6";
-	$servidor = "localhost";
+	$servidor = "172.30.6.130";
 	$basededatos = "database_01";
 	
 	// creación de la conexión a la base de datos con mysql_connect()
