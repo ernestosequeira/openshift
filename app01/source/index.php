@@ -1,6 +1,6 @@
 <?php
 	// Datos de la base de datos
-	$usuario = "esequeira";
+	$usuario = "root";
 	$password = "9358819d8143cbb6";
 	$servidor = "172.30.6.130";
 	$basededatos = "database_01";
