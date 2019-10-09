@@ -16,7 +16,7 @@
 	
 	// Motrar el resultado de los registro de la base de datos
 	// Encabezado de la tabla
-	echo "<table borde='2'>";
+	echo "<table border='1'>";
 	echo "<tr>";
 	echo "<th>Nombre de usuario</th>";
 	echo "<th>Password</th>";
